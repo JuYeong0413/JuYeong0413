@@ -1,12 +1,12 @@
 # Hi, I'm Juyeong :wave: :woman:‍:computer:
 
 I'm a student learning business administration & computer science engineering at Dongguk University, Republic of Korea.  
-
-<div align=center>
   
   [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413)](https://github.com/JuYeong0413/github-readme-stats)  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong0413&layout=compact)](https://github.com/JuYeong0413/github-readme-stats)
   
+<div align=center>
+
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jy__0413/?hl=ko)](https://www.instagram.com/jy__0413/?hl=ko)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonglee0413@gmail.com)](mailto:juyeonglee0413@gmail.com)  
   
