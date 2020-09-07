@@ -3,7 +3,7 @@
 I'm a student learning business administration & computer science engineering at Dongguk University, Republic of Korea.  
 
 
-[![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&count_private=true&hide=stars)](https://github.com/JuYeong0413/github-readme-stats)
+[![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/JuYeong0413/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong0413&layout=compact)](https://github.com/JuYeong0413/github-readme-stats)
   
 <div align=center>
