@@ -8,9 +8,11 @@ I'm a student learning business administration & computer science engineering at
 
 ## :hammer_and_wrench: Skills
 These are the languages and tools I've used at least once.  
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![R](https://img.shields.io/badge/R-276D73?style=flat-square&logo=r)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
