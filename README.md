@@ -1,6 +1,6 @@
 # Hi, I'm Juyeong :wave: :woman:‍:computer:
 
-I'm a student learning business administration & computer science engineering at Dongguk University, Republic of Korea.  
+I'm a student learning Business Administration & Computer Science and Engineering at Dongguk University, Republic of Korea.  
 
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,7 +8,7 @@ I'm a student learning business administration & computer science engineering at
 
 ## :hammer_and_wrench: Skills
 These are the languages and tools I've used at least once.  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -21,6 +21,7 @@ These are the languages and tools I've used at least once.
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 
 I'm familiar with...  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
@@ -37,6 +38,7 @@ I'm familiar with...
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 
 ## :raised_hands: How to reach me
