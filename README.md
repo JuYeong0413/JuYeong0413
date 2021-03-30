@@ -8,7 +8,6 @@ I'm a student learning Business Administration & Computer Science and Engineerin
 
 ## :hammer_and_wrench: Skills
 These are the languages and tools I've used at least once.  
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -31,6 +30,7 @@ I'm familiar with...
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
