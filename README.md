@@ -4,7 +4,9 @@ I'm a student learning Business Administration & Computer Science and Engineerin
 
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong0413&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## :hammer_and_wrench: Skills
 These are the languages and tools I've used at least once.  
@@ -20,9 +22,6 @@ These are the languages and tools I've used at least once.
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 I'm familiar with...  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
@@ -41,6 +40,9 @@ I'm familiar with...
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 
 ## :raised_hands: How to reach me
