@@ -1,12 +1,11 @@
 # Hi, I'm Juyeong :wave: :woman:‍:computer:
 
-I'm a student learning Business Administration & Computer Science and Engineering at Dongguk University, Republic of Korea.  
+I'm a 4th-year undergraduate student learning Business Administration & Computer Science and Engineering at Dongguk University, Republic of Korea.  
 
+### :parrot: A little more about me...
+- 😄 Pronouns: She/Her
+- ⌚ Timezone: Asia/Seoul, Korea Standard Time (UTC +09:00)
 
-[![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong0413&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## :hammer_and_wrench: Skills
 These are the languages and tools I've used at least once.  
@@ -45,7 +44,7 @@ I'm familiar with...
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 
-## :raised_hands: How to reach me
+## :mailbox: How to reach me
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jy__0413/?hl=ko)](https://www.instagram.com/jy__0413/?hl=ko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonglee0413@gmail.com)](mailto:juyeonglee0413@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juyeonglee0413)
@@ -59,6 +58,11 @@ I'm familiar with...
 4. 💪 Opened PR [#5391](https://github.com/flutter/flutter-intellij/pull/5391) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
 5. 🗣 Commented on [#5374](https://github.com/flutter/flutter-intellij/issues/5374) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
 <!--END_SECTION:activity-->
+
+[![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong0413&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+-->
   
 <div align=center>
   
