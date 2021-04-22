@@ -49,7 +49,10 @@ I'm familiar with...
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jy__0413/?hl=ko)](https://www.instagram.com/jy__0413/?hl=ko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonglee0413@gmail.com)](mailto:juyeonglee0413@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juyeonglee0413)
-  
+
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
   
 <div align=center>
   
