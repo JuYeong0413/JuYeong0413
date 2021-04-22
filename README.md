@@ -53,6 +53,12 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#358](https://github.com/jojoldu/junior-recruit-scheduler/pull/358) in [jojoldu/junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+2. 🗣 Commented on [#5419](https://github.com/flutter/flutter-intellij/issues/5419) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+3. 💪 Opened PR [#5405](https://github.com/flutter/flutter-intellij/pull/5405) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+4. 💪 Opened PR [#5391](https://github.com/flutter/flutter-intellij/pull/5391) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+5. 🗣 Commented on [#5374](https://github.com/flutter/flutter-intellij/issues/5374) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+<!--END_SECTION:activity-->
   
 <div align=center>
   
