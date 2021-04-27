@@ -52,11 +52,11 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1137](https://github.com/nnstreamer/nntrainer/pull/1137) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
-2. 🗣 Commented on [#5689](https://github.com/flutter/website/issues/5689) in [flutter/website](https://github.com/flutter/website)
-3. 🗣 Commented on [#5666](https://github.com/flutter/website/issues/5666) in [flutter/website](https://github.com/flutter/website)
-4. ❌ Closed PR [#5391](https://github.com/flutter/flutter-intellij/pull/5391) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-5. 🗣 Commented on [#5405](https://github.com/flutter/flutter-intellij/issues/5405) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+1. 🗣 Commented on [#1138](https://github.com/nnstreamer/nntrainer/issues/1138) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
+2. 💪 Opened PR [#1138](https://github.com/nnstreamer/nntrainer/pull/1138) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
+3. 💪 Opened PR [#1137](https://github.com/nnstreamer/nntrainer/pull/1137) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
+4. 🗣 Commented on [#5689](https://github.com/flutter/website/issues/5689) in [flutter/website](https://github.com/flutter/website)
+5. 🗣 Commented on [#5666](https://github.com/flutter/website/issues/5666) in [flutter/website](https://github.com/flutter/website)
 <!--END_SECTION:activity-->
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
