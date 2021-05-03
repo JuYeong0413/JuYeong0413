@@ -52,11 +52,11 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5711](https://github.com/flutter/website/issues/5711) in [flutter/website](https://github.com/flutter/website)
-2. 💪 Opened PR [#5451](https://github.com/flutter/flutter-intellij/pull/5451) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-3. 💪 Opened PR [#858](https://github.com/sos-masters/sos-masters/pull/858) in [sos-masters/sos-masters](https://github.com/sos-masters/sos-masters)
-4. 🗣 Commented on [#1138](https://github.com/nnstreamer/nntrainer/issues/1138) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
-5. 💪 Opened PR [#1138](https://github.com/nnstreamer/nntrainer/pull/1138) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
+1. 🗣 Commented on [#5457](https://github.com/flutter/flutter-intellij/issues/5457) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+2. 🗣 Commented on [#5711](https://github.com/flutter/website/issues/5711) in [flutter/website](https://github.com/flutter/website)
+3. 💪 Opened PR [#5451](https://github.com/flutter/flutter-intellij/pull/5451) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+4. 💪 Opened PR [#858](https://github.com/sos-masters/sos-masters/pull/858) in [sos-masters/sos-masters](https://github.com/sos-masters/sos-masters)
+5. 🗣 Commented on [#1138](https://github.com/nnstreamer/nntrainer/issues/1138) in [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer)
 <!--END_SECTION:activity-->
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
