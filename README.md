@@ -52,11 +52,11 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5405](https://github.com/flutter/flutter-intellij/issues/5405) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-2. 🗣 Commented on [#5481](https://github.com/flutter/flutter-intellij/issues/5481) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-3. 💪 Opened PR [#5737](https://github.com/flutter/website/pull/5737) in [flutter/website](https://github.com/flutter/website)
-4. 🗣 Commented on [#5451](https://github.com/flutter/flutter-intellij/issues/5451) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-5. 🗣 Commented on [#5457](https://github.com/flutter/flutter-intellij/issues/5457) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+1. 💪 Opened PR [#5494](https://github.com/flutter/flutter-intellij/pull/5494) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+2. 🗣 Commented on [#5405](https://github.com/flutter/flutter-intellij/issues/5405) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+3. 🗣 Commented on [#5481](https://github.com/flutter/flutter-intellij/issues/5481) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+4. 💪 Opened PR [#5737](https://github.com/flutter/website/pull/5737) in [flutter/website](https://github.com/flutter/website)
+5. 🗣 Commented on [#5451](https://github.com/flutter/flutter-intellij/issues/5451) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
 <!--END_SECTION:activity-->
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
