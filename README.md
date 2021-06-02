@@ -52,11 +52,11 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5496](https://github.com/flutter/flutter-intellij/pull/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-2. 🗣 Commented on [#5496](https://github.com/flutter/flutter-intellij/issues/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-3. 💪 Opened PR [#5496](https://github.com/flutter/flutter-intellij/pull/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-4. 💪 Opened PR [#5494](https://github.com/flutter/flutter-intellij/pull/5494) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
-5. 🗣 Commented on [#5405](https://github.com/flutter/flutter-intellij/issues/5405) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+1. 🎉 Merged PR [#1](https://github.com/JuYeong0413/dgu-notice-bot/pull/1) in [JuYeong0413/dgu-notice-bot](https://github.com/JuYeong0413/dgu-notice-bot)
+2. ❌ Closed PR [#5496](https://github.com/flutter/flutter-intellij/pull/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+3. 🗣 Commented on [#5496](https://github.com/flutter/flutter-intellij/issues/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+4. 💪 Opened PR [#5496](https://github.com/flutter/flutter-intellij/pull/5496) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
+5. 💪 Opened PR [#5494](https://github.com/flutter/flutter-intellij/pull/5494) in [flutter/flutter-intellij](https://github.com/flutter/flutter-intellij)
 <!--END_SECTION:activity-->
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
