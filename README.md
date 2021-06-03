@@ -52,11 +52,11 @@ I'm familiar with...
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/JuYeong0413/lohbs-pick/pull/88) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
-2. 🎉 Merged PR [#87](https://github.com/JuYeong0413/lohbs-pick/pull/87) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
-3. 🎉 Merged PR [#86](https://github.com/JuYeong0413/lohbs-pick/pull/86) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
-4. 🎉 Merged PR [#85](https://github.com/JuYeong0413/lohbs-pick/pull/85) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
-5. 🎉 Merged PR [#1](https://github.com/JuYeong0413/dgu-notice-bot/pull/1) in [JuYeong0413/dgu-notice-bot](https://github.com/JuYeong0413/dgu-notice-bot)
+1. ❗️ Opened issue [#2](https://github.com/JuYeong0413/dgu-notice-bot/issues/2) in [JuYeong0413/dgu-notice-bot](https://github.com/JuYeong0413/dgu-notice-bot)
+2. 🎉 Merged PR [#88](https://github.com/JuYeong0413/lohbs-pick/pull/88) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
+3. 🎉 Merged PR [#87](https://github.com/JuYeong0413/lohbs-pick/pull/87) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
+4. 🎉 Merged PR [#86](https://github.com/JuYeong0413/lohbs-pick/pull/86) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
+5. 🎉 Merged PR [#85](https://github.com/JuYeong0413/lohbs-pick/pull/85) in [JuYeong0413/lohbs-pick](https://github.com/JuYeong0413/lohbs-pick)
 <!--END_SECTION:activity-->
 
 [![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=JuYeong0413&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
