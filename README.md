@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juyeong%20Lee&desc=Backend%20Developer&descAlignY=57&animation=twinkling&fontAlignY=35)
 # Hi, I'm Juyeong :wave: :woman:‍:computer:
 
 I'm a 4th-year undergraduate student learning Business Administration & Computer Science and Engineering at Dongguk University, Republic of Korea.  
