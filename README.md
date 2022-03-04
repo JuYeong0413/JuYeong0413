@@ -3,7 +3,7 @@
 
 Software Engineer working at Danggeun Market Inc.
 
-### Language and Tools
+### :hammer_and_wrench: Language and Tools
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
