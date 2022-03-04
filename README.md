@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juyeong%20Lee&desc=Backend%20Developer&descAlignY=57&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juyeong%20Lee&desc=Software%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35)
 # Hi, I'm Juyeong :wave: :woman:‍:computer:
 
-I'm a 4th-year undergraduate student learning Business Administration & Computer Science and Engineering at Dongguk University, Republic of Korea.  
+Software Engineer working at Danggeun Market Inc.
+
+### Language and Tools
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ### :parrot: A little more about me...
 - 😄 Pronouns: She/Her
